@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1601336939 source:c:\users\amit\documents\game_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602343035 source:d:\c_course\games\game_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603997275 source:d:\diploma\2_c_course\session_3\1_game_s_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605276110 source:d:\material\2_c_course\session_3\1_game_s_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605459812 source:d:\material\2_c_course\session_3\1_game_s_3\quiz.c
+	"Quiz.h"
+
+1605276044 d:\material\2_c_course\session_3\1_game_s_3\quiz.h
+
+1608298379 source:d:\groups\g_5_o_10\2_c_course\session_3\1_game_s_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605459812 source:d:\groups\g_5_o_10\2_c_course\session_3\1_game_s_3\quiz.c
+	"Quiz.h"
+
+1605276044 d:\groups\g_5_o_10\2_c_course\session_3\1_game_s_3\quiz.h
+
+1608298379 source:c:\users\r7\desktop\1_game_s_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605459812 source:c:\users\r7\desktop\1_game_s_3\quiz.c
+	"Quiz.h"
+
+1605276044 c:\users\r7\desktop\1_game_s_3\quiz.h
+

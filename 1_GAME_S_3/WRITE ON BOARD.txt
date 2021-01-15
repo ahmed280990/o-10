@@ -1,0 +1,4 @@
+local         = 90
+static local  = 95
+global        = 80
+static global = 85

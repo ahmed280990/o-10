@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605194614 source:c:\users\amit\documents\2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605205619 source:d:\material\2_c_course\session_3\1_game_s_3\q\2\main.c
+	<stdio.h>
+	<stdlib.h>
+
